@@ -1,17 +1,19 @@
-021 - WIP
-020 - WIP
-019 - 
-018 - 
+025 - NOTE:
+
+021 - done
+020 - FIX:
+019 - FIX:
+018 - FIX:
 017 - done
-016 - WIP
-015 - 
+016 - NOTE:
+015 - FIX:
 014 - done
-013 - 
+013 - FIX:
 012 - done
-011 - 
+011 - FIX:
 010 - done
 009 - done
-008 - 
+008 - FIX:
 007 - done
 006 - done
 005 - done
