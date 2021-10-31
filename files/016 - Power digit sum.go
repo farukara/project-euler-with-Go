@@ -13,9 +13,10 @@ func main() {
     number := strconv.FormatFloat(math.Pow(2, 1_000), 'E', 301, 64)
     str := number[:1]+number[2:len(number)-5]
     total := 0
-    for _, letter := range str {
-        // total += strconv.Atoi(letter)
-        fmt.Println(letter)
+    for i, _ := range str {
+        total += strconv.Atoi(string(str[i]))
+
+        // fmt.Printf("type %v: %T\n", str[i], str[i])
         // total += strconv.Atoi(string(letter))
         // fmt.Println(strconv.ParseInt(letter, 10, 64))
     }
