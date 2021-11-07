@@ -7,7 +7,7 @@
 019 - FIX:
 018 - FIX:
 017 - done
-016 - NOTE:
+016 - done
 015 - FIX:
 014 - done
 013 - FIX:
@@ -15,7 +15,7 @@
 011 - FIX:
 010 - done
 009 - done
-008 - FIX:
+008 - done
 007 - done
 006 - done
 005 - done
