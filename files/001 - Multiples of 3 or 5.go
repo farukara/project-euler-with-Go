@@ -11,3 +11,4 @@ func main() {
     }
     fmt.Println("\nTotal:", total, "\n")
 }
+
