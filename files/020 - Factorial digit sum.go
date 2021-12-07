@@ -1,13 +1,27 @@
 package main
+//Project Euler - 020 - Factorial digit sum
 
 import (
     "fmt"
+    "math/big"
+    "strconv"
 )
 
 func main() {
-    fib := 1
-    for i:=1;i<=100;i++ {
-        fib *= i
+    fib := big.NewInt(1)
+    limit := big.NewInt(100)
+    step := big.NewInt(1)
+    
+    for i:=big.NewInt(1);i.Cmp(limit)<0;i.Add(i, step) {
+        fib = fib.Mul(fib, i)
     }
-    fmt.Println(fib) //shows 0 because of the damn formatting same problem with 16
+
+    total := 0
+    fibs := fib.String()
+    for _, digit := range fibs {
+        str, _ := strconv.Atoi(string(digit))
+        total += int(str)
+    }
+
+    fmt.Println(total)
 }
