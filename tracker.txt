@@ -1,19 +1,34 @@
+081 - done - DP
+
+078 - FIX: - DP Different ways to sum to a number
+
+076 - FIX: - DP Different ways to sum to a number
+
+067 - done - DP same problem as 018 with larger input
+
+041 - done - implemented Steinhaus–Johnson–Trotter algo to find permutations
+
+039 - done
+
+034 - done
+
+032 - done
 031 - done DP
 030 - done
 
 025 - done
 
 021 - done
-020 - FIX:
+020 - done
 019 - FIX:
-018 - FIX:
+018 - done DP
 017 - done
 016 - done
-015 - FIX:
+015 - done
 014 - done
-013 - FIX:
+013 - done
 012 - done
-011 - FIX:
+011 - done
 010 - done
 009 - done
 008 - done

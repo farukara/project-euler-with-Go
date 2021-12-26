@@ -27,7 +27,7 @@ func main() {
             if currentTarget-currentCoin < 0 {
                 table[i] = append(table[i], table[i-1][currentTarget])
             } else {
-            table[i] = append(table[i], table[i-1][currentTarget] + table[i][currentTarget-currentCoin])
+                table[i] = append(table[i], table[i-1][currentTarget] + table[i][currentTarget-currentCoin])
             }
         }
     }
