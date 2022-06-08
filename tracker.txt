@@ -1,8 +1,9 @@
 081 - done - DP
 
+079 - FIX: - 
 078 - FIX: - DP Different ways to sum to a number
 
-076 - FIX: - DP Different ways to sum to a number
+076 - done - DP Different ways to sum to a number
 
 067 - done - DP same problem as 018 with larger input
 
@@ -18,9 +19,10 @@
 
 025 - done
 
+022 - done string sorting, converting string letters to ascii int
 021 - done
 020 - done
-019 - FIX:
+019 - done date manipulation
 018 - done DP
 017 - done
 016 - done
